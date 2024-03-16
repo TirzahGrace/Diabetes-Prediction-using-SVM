@@ -1,0 +1,157 @@
+Splits in cross_validation:  5
+Iteration 0: Objective function = 14.315157925044018
+Iteration 100: Objective function = 12.839020554768268
+Iteration 200: Objective function = 11.433967591739973
+Iteration 300: Objective function = 10.116212367807059
+Iteration 400: Objective function = 8.888557939489388
+Iteration 500: Objective function = 7.7592929926994465
+Iteration 600: Objective function = 6.768107566623515
+Iteration 700: Objective function = 5.956767565402064
+Iteration 800: Objective function = 5.3601930739360295
+Iteration 900: Objective function = 5.022038000614296
+Iteration 0: Objective function = 15.005096197929777
+Iteration 100: Objective function = 13.354372404211578
+Iteration 200: Objective function = 11.80133974091165
+Iteration 300: Objective function = 10.348889585560554
+Iteration 400: Objective function = 9.000450890944087
+Iteration 500: Objective function = 7.779230540103677
+Iteration 600: Objective function = 6.721119913645789
+Iteration 700: Objective function = 5.864037532913985
+Iteration 800: Objective function = 5.298481994561349
+Iteration 0: Objective function = 15.340450511765194
+Iteration 100: Objective function = 13.640007586080108
+Iteration 200: Objective function = 12.043703483054248
+Iteration 300: Objective function = 10.558727793414524
+Iteration 400: Objective function = 9.178147386590119
+Iteration 500: Objective function = 7.91414765155848
+Iteration 600: Objective function = 6.811247049929293
+Iteration 700: Objective function = 5.911737704973807
+Iteration 800: Objective function = 5.32668632112706
+Iteration 900: Objective function = 5.02329642008106
+Iteration 0: Objective function = 14.783848325947673
+Iteration 100: Objective function = 13.210652839519362
+Iteration 200: Objective function = 11.725451179432541
+Iteration 300: Objective function = 10.321712734415456
+Iteration 400: Objective function = 9.0146214636787
+Iteration 500: Objective function = 7.823370086744877
+Iteration 600: Objective function = 6.79701092488998
+Iteration 700: Objective function = 5.971879088197996
+Iteration 800: Objective function = 5.3857189736732565
+Iteration 900: Objective function = 5.090550720970596
+Iteration 1000: Objective function = 4.940021956643337
+Iteration 0: Objective function = 15.369566548392362
+Iteration 100: Objective function = 13.673672056065167
+Iteration 200: Objective function = 12.08101458758683
+Iteration 300: Objective function = 10.599422736124119
+Iteration 400: Objective function = 9.229597895571537
+Iteration 500: Objective function = 7.998184719137735
+Iteration 600: Objective function = 6.936435736361156
+Iteration 700: Objective function = 6.068229753516139
+Iteration 800: Objective function = 5.402123292321432
+Iteration 0: Objective function = 14.179861756808329
+Iteration 0: Objective function = 14.852010424055385
+Iteration 0: Objective function = 15.18283017869317
+Iteration 0: Objective function = 14.638372099395731
+Iteration 100: Objective function = 4.9404452032582
+Iteration 0: Objective function = 15.212369488111271
+Iteration 0: Objective function = 12.852859050858386
+Iteration 0: Objective function = 13.357535816877373
+Iteration 0: Objective function = 13.643941590880189
+Iteration 0: Objective function = 13.214315247841323
+Iteration 0: Objective function = 13.677627415884729
+Iteration 0: Objective function = 71.08419404099064
+Iteration 100: Objective function = 53.88366216444612
+Iteration 200: Objective function = 43.674096796579
+Iteration 300: Objective function = 38.38882661754539
+Iteration 0: Objective function = 77.91602682575999
+Iteration 100: Objective function = 55.249288588105976
+Iteration 200: Objective function = 42.699381801020444
+Iteration 300: Objective function = 37.85766765641616
+Iteration 400: Objective function = 36.81927169242171
+Iteration 0: Objective function = 81.29318512965912
+Iteration 100: Objective function = 58.80516951038656
+Iteration 200: Objective function = 45.2301421634204
+Iteration 300: Objective function = 38.84736381471167
+Iteration 400: Objective function = 37.380577601422246
+Iteration 500: Objective function = 36.92711481164293
+Iteration 0: Objective function = 75.75277554767075
+Iteration 100: Objective function = 57.00820659655157
+Iteration 200: Objective function = 45.9427443140781
+Iteration 300: Objective function = 40.78906448870767
+Iteration 400: Objective function = 38.60989631231723
+Iteration 500: Objective function = 37.99450711554252
+Iteration 600: Objective function = 37.476541587531734
+Iteration 0: Objective function = 81.57711690026063
+Iteration 100: Objective function = 58.90411444764531
+Iteration 200: Objective function = 46.00220612601705
+Iteration 300: Objective function = 40.252588355140176
+Iteration 400: Objective function = 39.082754304594815
+Iteration 500: Objective function = 38.37505917006517
+Iteration 0: Objective function = 69.15586519416279
+Iteration 0: Objective function = 75.22310602496309
+Iteration 0: Objective function = 78.7533459529548
+Iteration 0: Objective function = 73.5663761168268
+Iteration 0: Objective function = 78.97891875829832
+Iteration 0: Objective function = 53.21465909213357
+Iteration 0: Objective function = 53.874798278636824
+Iteration 0: Objective function = 57.612563436330575
+Iteration 0: Objective function = 55.91576024342034
+Iteration 0: Objective function = 57.50534050564943
+Iteration 0: Objective function = 625.2253560434867
+Iteration 100: Objective function = 337.5649168668944
+Iteration 0: Objective function = 686.9680910968966
+Iteration 0: Objective function = 722.9579879251233
+Iteration 0: Objective function = 670.1620062885012
+Iteration 100: Objective function = 359.72681762737454
+Iteration 0: Objective function = 725.0933846351156
+Iteration 0: Objective function = 508.1668861747184
+Iteration 0: Objective function = 520.9025636151499
+Iteration 0: Objective function = 565.2887622215213
+Iteration 0: Objective function = 542.1822179137819
+Iteration 0: Objective function = 562.6669005538512
+Iteration 0: Objective function = 1163.6860416598488
+Iteration 0: Objective function = 1566.315575047099
+Iteration 0: Objective function = 1493.6035534576868
+Iteration 0: Objective function = 1912.257661092163
+Iteration 0: Objective function = 1313.8972216739542
+Iteration 0: Objective function = 5052.254290950982
+Iteration 0: Objective function = 5186.229675970402
+Iteration 0: Objective function = 5637.335868909274
+Iteration 0: Objective function = 5399.749571380867
+Iteration 0: Objective function = 5609.520807638129
+Iteration 0: Objective function = 10691.285589990994
+Iteration 0: Objective function = 14419.871298900482
+Iteration 0: Objective function = 13542.656503614413
+Iteration 0: Objective function = 17659.72267738517
+Iteration 0: Objective function = 11973.662009053687
+Iteration 0: Objective function = 1511415.8760269023
+Iteration 0: Objective function = 2110783.7527290867
+Iteration 0: Objective function = 2252203.2975431206
+Iteration 0: Objective function = 2577520.112282664
+Iteration 0: Objective function = 1860492.4969274488
+Best C:  10
+Best Learning rate:  0.01
+Iteration 0: Objective function = 26356.807719987177
+Final weights (w):  [2.7843161  7.28963386 0.65537159 4.74889977 4.8942154  7.7529929
+ 3.40641769 4.20862025]
+Final bias (b):  0.791
+Results of the SVM Model Implemented: 
+              precision    recall  f1-score   support
+
+           0       0.83      0.66      0.73        99
+           1       0.55      0.76      0.64        55
+
+    accuracy                           0.69       154
+   macro avg       0.69      0.71      0.69       154
+weighted avg       0.73      0.69      0.70       154
+
+Results of the Inbuilt Linear SVC: 
+              precision    recall  f1-score   support
+
+           0       0.81      0.80      0.81        99
+           1       0.65      0.67      0.66        55
+
+    accuracy                           0.75       154
+   macro avg       0.73      0.74      0.73       154
+weighted avg       0.76      0.75      0.75       154
+
