@@ -6,4 +6,7 @@ This project aims to predict the onset of diabetes in patients using Support Vec
 
 - **Group51_DPSVM1:** Code
 - **Group51_DPSVM1.pdf:** Report
+
+## Author:
+- TIRZAH GRACE Y (21CS10071)
   
