@@ -33,3 +33,5 @@ This project aims to predict the onset of diabetes in patients using Support Vec
    python3 main.py > ../output/output.txt 
    ```
    - Results are stored in Group51_DPSVM1/output/output.txt file
+## Author:
+  - Tirzah Grace (21CS10071)
